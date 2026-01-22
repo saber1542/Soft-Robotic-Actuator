@@ -1,12 +1,7 @@
-## Soft-Robotic-Actuator
-. Made for Masters individual final project.
+## Twisting-Soft-Actuator
+Twisting soft actuator is a project that where different designs of twisting soft actuators were developed for potential use in robotic arms due to their advantages compared to rigid robotics. . Made for Masters individual final project.
 
----
-
-## Features
-- 
-
-<img src="Arm_Photos/IMG_4085.png"  height="300">
+<img src="Soft_Actuator_Photos/IMG_4614.png"  height="500">
 
 ---
 
@@ -22,18 +17,32 @@ Total cost: £53
 
 ---
 
-
-## Videos
-
-![]()
-
----
-
 ## CAD Designs
 
+Design 1
+<img src="Final_Design_CAD_Files/sd1.png"  height="500">
 
+Design 2
+<img src="Final_Design_CAD_Files/sd2.png"  height="500">
+
+Design 3
+<img src="Final_Design_CAD_Files/sd3.png"  height="500">
+
+CAD .STL Files avaliable in the `/Final_Design_CAD_Files` folder
 
 ---
+
+## Photos
+
+<img src="Soft_Actuator_Photos/IMG_4607.png"  height="500">
+<img src="Soft_Actuator_Photos/IMG_4609.png"  height="500">
+<img src="Soft_Actuator_Photos/IMG_4591.png"  height="500">
+
+More photos avaliable in the `/Soft_Actuator_Photos` folder
+
+---
+
+
 
 
 
