@@ -14,16 +14,18 @@
 
 | Component                             | Amount | Total Cost (GBP) | Link |
 |---------------------------------------|--------|------------|------|
-| Smooth-on Ecoflex 00-30               |   1    | £19        | [Link](https://store.arduino.cc/products/uno-r4-minima) |
-| Syringe and tube                      |   1    | £13        | [Example](https://store.arduino.cc/products/nano-every?queryID=undefined) |
-| PLA Filament                          |   1    | £10        | [Example](https://www.amazon.co.uk/s?k=pla+filament) |
+| Smooth-on Ecoflex 00-30               |   1    | £33        | [Link](https://www.benam.co.uk/ecoflex-00-30) |
+| Syringe and tube                      |   1    | £2        | - |
+| PLA Filament                          |   1    | £18        | [Example](https://www.amazon.co.uk/s?k=pla+filament) |
+
+Total cost: £53
 
 ---
 
 
 ## Videos
 
-![Turntable Test](Arm_Photos/IMG_4087.MOV)
+![]()
 
 ---
 
