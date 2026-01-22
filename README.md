@@ -1,7 +1,7 @@
 ## Twisting-Soft-Actuator
 Twisting soft actuator is a project that where different designs of twisting soft actuators were developed for potential use in robotic arms due to their advantages compared to rigid robotics. . Made for Masters individual final project.
 
-<img src="Soft_Actuator_Photos/IMG_4614.png"  height="500">
+<img src="Soft_Actuator_Photos/IMG_4614.jpg"  height="500">
 
 ---
 
@@ -34,9 +34,9 @@ CAD .STL Files avaliable in the `/Final_Design_CAD_Files` folder
 
 ## Photos
 
-<img src="Soft_Actuator_Photos/IMG_4607.png"  height="500">
-<img src="Soft_Actuator_Photos/IMG_4609.png"  height="500">
-<img src="Soft_Actuator_Photos/IMG_4591.png"  height="500">
+<img src="Soft_Actuator_Photos/IMG_4607.jpg"  height="500">
+<img src="Soft_Actuator_Photos/IMG_4609.jpg"  height="500">
+<img src="Soft_Actuator_Photos/IMG_4591.jpg"  height="500">
 
 More photos avaliable in the `/Soft_Actuator_Photos` folder
 
